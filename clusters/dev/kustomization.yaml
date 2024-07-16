@@ -5,4 +5,4 @@ resources:
 - ns.yaml
 images:
 - name: medanouar/vuejs-demo-app
-  newTag: latest
+  newTag: v1
